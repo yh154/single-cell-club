@@ -1,2 +1,2 @@
 # single-cell-club
-Basic scRNASeq analysis
+Basic scRNASeq analysis in python
